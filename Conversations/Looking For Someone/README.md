@@ -35,3 +35,39 @@
         <td>Sie ist zuhause</td>
     </tr>
 </table>
+
+### Girl looking for a Boy (Julian) :
+<table>
+    <tr>
+        <td>English</td>
+        <td>German</td>
+    </tr>
+    <tr>
+        <td>Excuse me, is Julien here?</td>
+        <td>Ist Julian da?</td>
+    </tr>
+    <tr>
+        <td>Yes, he's here</td>
+        <td>Ja, er ist hier</td>
+    </tr>
+    <tr>
+        <td>He's out</td>
+        <td>Er ist fort</td>
+    </tr>
+    <tr>
+        <td>Do you know where I could find him?</td>
+        <td>Wissen Sie wo ich ihn finden kann? </td>
+    </tr>
+    <tr>
+        <td>You can call him on his mobile phone</td>
+        <td>Sie können ihn über sein Handy erreichen</td>
+    </tr>
+    <tr>
+        <td>He is at work</td>
+        <td>Er ist auf seiner Arbeit</td>
+    </tr>
+    <tr>
+        <td>He is at home</td>
+        <td>Er ist zuhause</td>
+    </tr>
+</table>
