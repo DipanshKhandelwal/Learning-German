@@ -141,7 +141,7 @@
         <td>Kalt</td>
     </tr>
     <tr>
-        <td>Sharp</td>
+        <td>Hot</td>
         <td>Scharf</td>
     </tr>
     <tr>

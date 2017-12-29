@@ -1,5 +1,41 @@
 # Time Tracking
 
+### Days of the Week :
+<table>
+    <tr>
+        <td>English</td>
+        <td>German</td>
+    </tr>
+    <tr>
+        <td>Monday</td>
+        <td>Montag</td>
+    </tr>
+    <tr>
+        <td>Tuesday</td>
+        <td>Dienstag</td>
+    </tr>
+    <tr>
+        <td>Wednesday</td>
+        <td>Mittwoch</td>
+    </tr>
+    <tr>
+        <td>Thursday</td>
+        <td>Donnerstag</td>
+    </tr>
+    <tr>
+        <td>Friday</td>
+        <td>Freitag</td>
+    </tr>
+    <tr>
+        <td>Saturday</td>
+        <td>Samstag</td>
+    </tr>
+    <tr>
+        <td>Sunday</td>
+        <td>Sonntag</td>
+    </tr>
+</table>
+
 ### Time :
 <table>
     <tr>
