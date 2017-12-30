@@ -3,8 +3,8 @@
 ### Boy looking for a Girl (Sarah) :
 <table>
 	<tr>
-        <td>English</td>
-        <td>German</td>
+        <th>English</th>
+        <th>German</th>
     </tr>
     <tr>
         <td>Excuse me, is Sarah here?</td>
@@ -39,8 +39,8 @@
 ### Girl looking for a Boy (Julian) :
 <table>
     <tr>
-        <td>English</td>
-        <td>German</td>
+        <th>English</th>
+        <th>German</th>
     </tr>
     <tr>
         <td>Excuse me, is Julien here?</td>

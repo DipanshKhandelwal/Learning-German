@@ -2,8 +2,8 @@
 
 <table>
 	<tr>
-        <td>English</td>
-        <td>German</td>
+        <th>English</th>
+        <th>German</th>
     </tr>
     <tr>
         <td>Colors</td>

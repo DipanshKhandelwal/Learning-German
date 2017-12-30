@@ -3,8 +3,8 @@
 ### Days of the Week :
 <table>
     <tr>
-        <td>English</td>
-        <td>German</td>
+        <th>English</th>
+        <th>German</th>
     </tr>
     <tr>
         <td>Monday</td>
