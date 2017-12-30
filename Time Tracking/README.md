@@ -36,6 +36,62 @@
     </tr>
 </table>
 
+### Months of the Year :
+<table>
+    <tr>
+        <td>English</td>
+        <td>German</td>
+    </tr>
+    <tr>
+        <td>January</td>
+        <td>Januar</td>
+    </tr>
+    <tr>
+        <td>February</td>
+        <td>Februar</td>
+    </tr>
+    <tr>
+        <td>March</td>
+        <td>März</td>
+    </tr>
+    <tr>
+        <td>April</td>
+        <td>April</td>
+    </tr>
+    <tr>
+        <td>May</td>
+        <td>Mai</td>
+    </tr>
+    <tr>
+        <td>June</td>
+        <td>Juni</td>
+    </tr>
+    <tr>
+        <td>July</td>
+        <td>Juli</td>
+    </tr>
+    <tr>
+        <td>August</td>
+        <td>August</td>
+    </tr>
+    <tr>
+        <td>September</td>
+        <td>September</td>
+    </tr>
+    <tr>
+        <td>October</td>
+        <td>Oktober</td>
+    </tr>
+    <tr>
+        <td>November</td>
+        <td>November</td>
+    </tr>
+    <tr>
+        <td>December</td>
+        <td>Dezember</td>
+    </tr>
+</table>
+
 ### Time :
 <table>
     <tr>
