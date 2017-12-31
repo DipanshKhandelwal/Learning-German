@@ -19,6 +19,10 @@
         <td>GoodBye</td>
         <td>Auf Wiedersehen</td>
     </tr>
+     <tr>
+        <td>Bye!</td>
+        <td>Tschüß!</td>
+    </tr>
     <tr>
         <td>See you later</td>
         <td>Bis später</td>
@@ -32,15 +36,19 @@
         <td>Nein</td>
     </tr>
     <tr>
-        <td>Excuse me!</td>
-        <td>Bitte!</td>
+        <td>Thank you</td>
+        <td>Danke</td>
     </tr>
     <tr>
-        <td>Thanks!</td>
+        <td>Excuse me!</td>
+        <td>Entschuldigen Sie mich!</td>
+    </tr>
+    <tr>
+        <td>Thank you very much!</td>
         <td>Danke schön!</td>
     </tr>
     <tr>
-        <td>Thanks a lot</td>
+        <td>Many Thanks!</td>
         <td>Vielen Dank!</td>
     </tr>
      <tr>
@@ -52,8 +60,24 @@
         <td>Bitte sehr</td>
     </tr>
     <tr>
+        <td>You're welcome!</td>
+        <td>Bitte!</td>
+    </tr>
+    <tr>
         <td>Ok</td>
         <td>In Ordnung</td>
+    </tr>
+    <tr>
+        <td>Today</td>
+        <td>Heute</td>
+    </tr>
+    <tr>
+        <td>Tomorrow</td>
+        <td>Morgen</td>
+    </tr>
+    <tr>
+        <td>Yesterday</td>
+        <td>Gestern</td>
     </tr>
     <tr>
         <td>How much is it?</td>
