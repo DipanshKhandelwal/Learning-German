@@ -307,6 +307,73 @@ Verb conjugation in German is more challenging than in English. To conjugate a r
         </tr>
     </table>
 
+# German Cases
+
+#### Two simple cases:
+### 1. Nominative
+The subject of a sentence (the one doing the action) is in the nominative case. So when we say "Die Frau spielt" (the woman plays), "Frau" is in the nominative.
+
+### 2. Accusative
+ The accusative object is the thing or person that is directly receiving the action. For example, in "Der Lehrer sieht den Ball" (the teacher sees the ball), "Lehrer" is the nominative subject and "Ball" is the accusative object.
+
+###  Articles change based on these two cases:
+
+#### 'the'
+<table>
+    <tr>
+        <th>Case</th>
+        <th>Masculine</th>
+        <th>Feminine</th>
+        <th>Neuter</th>
+        <th>Plural</th>
+    </tr>
+    <tr>
+        <th>Nominative</th>
+        <td>der</td>
+        <td>die</td>
+        <td>das</td>
+        <td>die</td>
+    </tr>
+    <tr>
+        <th>Accusative</th>
+        <td>den</td>
+        <td>die</td>
+        <td>das</td>
+        <td>die</td>
+    </tr>
+</table>
+
+#### 'a'
+
+<table>
+    <tr>
+        <th>Case</th>
+        <th>Masculine</th>
+        <th>Feminine</th>
+        <th>Neuter</th>
+    </tr>
+    <tr>
+        <th>Nominative</th>
+        <td>ein</td>
+        <td>eine</td>
+        <td>ein</td>
+    </tr>
+    <tr>
+        <th>Accusative</th>
+        <td>einen</td>
+        <td>eine</td>
+        <td>ein</td>
+    </tr>
+</table>
+
+The fact that most words in German are affected by the case explains why the sentence order is more flexible than in English.
+
+For example, you can say:
+
+* "Das Mädchen hat den Apfel" (the girl has the apple) or "Den Apfel hat das Mädchen." In both cases, "den Apfel" (the apple) is the accusative object.
+
+* "das Mädchen" is the nominative subject.
+
 # Source:
 * [Duolingo](https://www.duolingo.com/)
 * [Loecsen](https://www.loecsen.com/)
