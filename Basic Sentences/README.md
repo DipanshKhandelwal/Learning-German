@@ -72,3 +72,66 @@
 		<td>The bread</td>
 	</tr>
 </table>
+
+***
+
+## Exercise 2 - Plurals
+
+### Words used
++ **Jungen** - Boys
++ **Mädchen** - Girl
++ **Frauen** - Women
++ **Männer** - Men
++ **Kinder** - Children
++ **Wasser** - Water
+
+<table>
+	<tr>
+		<th>German</th>
+		<th>English</th>
+	</tr>
+	<tr>
+		<td>Wir sind Anna and Lukas</td>
+		<td>We are Anna and Lukas</td>
+	</tr>
+	<tr>
+		<td>Wir sind Frauen</td>
+		<td>We are women</td>
+	</tr>
+	<tr>
+		<td>Wir sind Männer</td>
+		<td>We are men</td>
+	</tr>
+	<tr>
+		<td>Männer und Frauen</td>
+		<td>Men and women</td>
+	</tr>
+	<tr>
+		<td>Die Männer</td>
+		<td>The men</td>
+	</tr>
+	<tr>
+		<td>Die Frauen</td>
+		<td>The women</td>
+	</tr>
+	<tr>
+		<td>Das ist Wasser</td>
+		<td>This/That is water</td>
+	</tr>
+	<tr>
+		<td>Wir sind Kinder</td>
+		<td>We are children</td>
+	</tr>
+	<tr>
+		<td>Wir sind Jungen</td>
+		<td>We are boys</td>
+	</tr>
+	<tr>
+		<td>Lukas und Anna sind Kinder</td>
+		<td>Lukas and Anna are children</td>
+	</tr>
+	<tr>
+		<td>Sie sind Frauen</td>
+		<td>They are women</td>
+	</tr>
+</table>
