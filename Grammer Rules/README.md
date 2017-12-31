@@ -110,6 +110,7 @@ A few verbs like "sein" (to be) are completely irregular, and their conjugations
 ### Conjugations of the verbs:
 * trinken - to drink
 * essen - to eat
+* haben - to have
 
 <table>
     <tr>
@@ -117,48 +118,56 @@ A few verbs like "sein" (to be) are completely irregular, and their conjugations
         <th>ending</th>
         <th>German(trinken)</th>
         <th>German(essen)</th>
+        <th>German(haben)</th>
     </tr>
     <tr>
         <td>I</td>
         <td>-e</td>
         <td>ich trinke</td>
         <td>ich esse</td>
+        <td>ich habe</td>
     </tr>
     <tr>
         <td>you (singular informal)</td>
         <td>-st</td>
         <td>du trinkst</td>
         <td>du isst</td>
+        <td>du hast</td>
     </tr>
     <tr>
         <td>he/she/it</td>
         <td>-t</td>
         <td>er/sie/es trinkt</td>
         <td>er/sie/es isst</td>
+        <td>er/sie/es hat</td>
     </tr>
     <tr>
         <td>we</td>
         <td>-en</td>
         <td>wir trinken</td>
         <td>wir essen</td>
+        <td>wir haben</td>
     </tr>
     <tr>
         <td>you (plural informal)</td>
         <td>-t</td>
         <td>ihr trinkt</td>
         <td>ihr esst</td>
+        <td>ihr habt</td>
     </tr>
     <tr>
         <td>you (formal)</td>
         <td>-en</td>
         <td>Sie trinken</td>
         <td>Sie essen</td>
+        <td>Sie haben</td>
     </tr>
     <tr>
         <td>they</td>
         <td>-en</td>
         <td>sie trinken</td>
         <td>sie essen</td>
+        <td>sie haben</td>
     </tr>
 </table>
 
