@@ -65,7 +65,10 @@ Nouns:
     </tr>
 </table>
 
-## Conjugations of the verb sein (to be)
+## Conjugating regular verbs
+Verb conjugation in German is more challenging than in English. To conjugate a regular verb in the present tense, identify the invariant stem of the verb and add the ending corresponding to any of the grammatical persons, which you can simply memorize:
+
+### Conjugations of the verb sein (to be)
 
 A few verbs like "sein" (to be) are completely irregular, and their conjugations simply need to be memorized:
 
@@ -104,53 +107,60 @@ A few verbs like "sein" (to be) are completely irregular, and their conjugations
     </tr>
 </table>
 
-## Conjugating regular verbs
-Verb conjugation in German is more challenging than in English. To conjugate a regular verb in the present tense, identify the invariant stem of the verb and add the ending corresponding to any of the grammatical persons, which you can simply memorize:
+### Conjugations of the verbs:
+* trinken - to drink
+* essen - to eat
 
 <table>
     <tr>
         <th>English</th>
         <th>ending</th>
-        <th>German</th>
+        <th>German(trinken)</th>
+        <th>German(essen)</th>
     </tr>
     <tr>
-        <td>I drink</td>
+        <td>I</td>
         <td>-e</td>
         <td>ich trinke</td>
+        <td>ich esse</td>
     </tr>
     <tr>
         <td>you (singular informal)</td>
         <td>-st</td>
         <td>du trinkst</td>
+        <td>du isst</td>
     </tr>
     <tr>
-        <td>he/she/it drink</td>
+        <td>he/she/it</td>
         <td>-t</td>
         <td>er/sie/es trinkt</td>
+        <td>er/sie/es isst</td>
     </tr>
     <tr>
         <td>we</td>
         <td>-en</td>
         <td>wir trinken</td>
+        <td>wir essen</td>
     </tr>
     <tr>
         <td>you (plural informal)</td>
         <td>-t</td>
         <td>ihr trinkt</td>
+        <td>ihr esst</td>
     </tr>
     <tr>
         <td>you (formal)</td>
         <td>-en</td>
         <td>Sie trinken</td>
+        <td>Sie essen</td>
     </tr>
     <tr>
         <td>they</td>
         <td>-en</td>
         <td>sie trinken</td>
+        <td>sie essen</td>
     </tr>
 </table>
-
-#### trinken(to drink)
 
 ## Umlauts
 * Umlauts are letters (more specifically vowels) that have two dots above them and appear in some German words like "Mädchen."
@@ -294,6 +304,7 @@ Verb conjugation in German is more challenging than in English. To conjugate a r
 
 ## German feminine plurals - nouns ending in -in
 * Feminine nouns that end in "-in" will need "-nen" in the plural.
+    
     <table>
         <tr>
             <th>Word</th>
