@@ -12,12 +12,28 @@
         <td>Guten Tag</td>
     </tr>
     <tr>
+        <td>How are you?</td>
+        <td>Wie geht's?</td>
+    </tr>
+    <tr>
+        <td>Good Morning</td>
+        <td>Guten Morgan</td>
+    </tr>
+    <tr>
+        <td>Good Night</td>
+        <td>Gute Nacht</td>
+    </tr>
+    <tr>
         <td>Good Evening</td>
         <td>Guten Abend</td>
     </tr>
     <tr>
         <td>GoodBye</td>
         <td>Auf Wiedersehen</td>
+    </tr>
+    <tr>
+        <td>Welcome</td>
+        <td>Willkommen</td>
     </tr>
      <tr>
         <td>Bye!</td>
@@ -28,12 +44,20 @@
         <td>Bis später</td>
     </tr>
     <tr>
+        <td>See you soon</td>
+        <td>Bis bald</td>
+    </tr>
+    <tr>
         <td>Yes</td>
         <td>Ja</td>
     </tr>
     <tr>
         <td>No</td>
         <td>Nein</td>
+    </tr>
+    <tr>
+        <td>No idea</td>
+        <td>Keine Ahnung!</td>
     </tr>
     <tr>
         <td>Thank you</td>
@@ -68,6 +92,10 @@
         <td>In Ordnung</td>
     </tr>
     <tr>
+        <td>All right</td>
+        <td>Alles klar</td>
+    </tr>
+    <tr>
         <td>Today</td>
         <td>Heute</td>
     </tr>
@@ -88,12 +116,20 @@
         <td>Entschuldigung!</td>
     </tr>
     <tr>
+        <td>I am sorry</td>
+        <td>Es tut mir leid</td>
+    </tr>
+    <tr>
         <td>I don't understand</td>
         <td>Ich verstehe nicht</td>
     </tr>
     <tr>
         <td>I get it</td>
         <td>Ich habe verstanden</td>
+    </tr>
+    <tr>
+        <td>exactly/right/absolutely/I agree</td>
+        <td>Genau</td>
     </tr>
     <tr>
         <td>I don't know</td>
