@@ -196,3 +196,97 @@
 		<td>They are women</td>
 	</tr>
 </table>
+
+## Exercise 4 - Accusative Case
+
+### Words used
++ **trinken** - to drink
++ **essen** - to eat
++ **haben** - to have
++ **Zeitung** - Newspaper
++ **Wasser** - Water
++ **Liest** - Read
++ **Bücher** - Books
+
+<table>
+	<tr>
+		<th>German</th>
+		<th>English</th>
+	</tr>
+	<tr>
+		<td>Du trinkst</td>
+		<td>You are drinking</td>
+	</tr>
+	<tr>
+		<td>Ich trinke</td>
+		<td>I drink</td>
+	</tr>
+		<tr>
+		<td>Ich trinke Milch</td>
+		<td>I am drinking milk</td>
+	</tr>
+	<tr>
+		<td>Er trinkt Milch</td>
+		<td>He drinks milk</td>
+	</tr>
+	<tr>
+		<td>Die Männer trinken Wasser</td>
+		<td>The men are drinking water</td>
+	</tr>
+	<tr>
+		<td>Du trinkst Wasser</td>
+		<td>You drink water</td>
+	</tr>
+	<tr>
+		<td>Wir trinken</td>
+		<td>We drink</td>
+	</tr>
+	<tr>
+		<td>Wir trinken Wasser</td>
+		<td>We are drinking water</td>
+	</tr>
+	<tr>
+		<td>Ein Apfel</td>
+		<td>An apple</td>
+	</tr>
+	<tr>
+		<td>Ich esse, du trinkst</td>
+		<td>I eat, you drink</td>
+	</tr>
+	<tr>
+		<td>Ich esse</td>
+		<td>I am eating</td>
+	</tr>
+	<tr>
+		<td>Wir essen</td>
+		<td>We are eating</td>
+	</tr>
+	<tr>
+		<td>Die Frau</td>
+		<td>The woman eats</td>
+	</tr>
+	<tr>
+		<td>Eine Frau isst einen Apfel</td>
+		<td>A woman is eating an apple</td>
+	</tr>
+	<tr>
+		<td>Die Männer essen Brot</td>
+		<td>The men are eating bread</td>
+	</tr>
+	<tr>
+		<td>Du liest</td>
+		<td>You are reading</td>
+	</tr>
+	<tr>
+		<td>Er liest</td>
+		<td>He reads</td>
+	</tr>
+	<tr>
+		<td>Der Junge liest eine Zeitung</td>
+		<td>The boy reads one newspaper</td>
+	</tr>
+	<tr>
+		<td>Liest er?</td>
+		<td>Does he read?</td>
+	</tr>
+</table>
