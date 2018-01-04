@@ -136,7 +136,7 @@
 	</tr>
 </table>
 
-## Exercise 4 - Accusative Case
+## Exercise 3 - Accusative Case
 
 ### Words used
 + **trinken** - to drink
@@ -227,5 +227,177 @@
 	<tr>
 		<td>Liest er?</td>
 		<td>Does he read?</td>
+	</tr>
+	<tr>
+		<td>Du liest eine Zeitung</td>
+		<td>You read a paper</td>
+	</tr>
+	<tr>
+		<td>Das Mädchen liest eine Zeitung</td>
+		<td>The girl is reading a newspaper</td>
+	</tr>
+	<tr>
+		<td>Sie liest eine Zeitung</td>
+		<td>She reads a newspaper</td>
+	</tr>
+	<tr>
+		<td>Wir lesen Bücher</td>
+		<td>We read books</td>
+	</tr>
+	<tr>
+		<td>Wir lesen</td>
+		<td>We are reading</td>
+	</tr>
+	<tr>
+		<td>Ich lese</td>
+		<td>I read/ I am reading</td>
+	</tr>
+	<tr>
+		<td>Ich lese ein Buch, sie liest eine Zeitung</td>
+		<td>I am reading a book, she is reading a newspaper</td>
+	</tr>
+	<tr>
+		<td>Du liest ein Buch</td>
+		<td>You are reading a book</td>
+	</tr>
+	<tr>
+		<td>Er hat Brot</td>
+		<td>He has bread</td>
+	</tr>
+	<tr>
+		<td>Der Mann isst das Brot</td>
+		<td>The man eats the bread</td>
+	</tr>
+	<tr>
+		<td>Ich trinke die Milch</td>
+		<td>I am drinking the milk</td>
+	</tr>
+	<tr>
+		<td>Wir essen den Apfel</td>
+		<td>We are eating the apple</td>
+	</tr>
+	<tr>
+		<td>Der Junge trinkt die Milch</td>
+		<td>The boy drinks the milk</td>
+	</tr>
+	<tr>
+		<td>Ich habe Wasser</td>
+		<td>I have water</td>
+	</tr>
+	<tr>
+		<td>Wir haben einen Apfel</td>
+		<td>We have a apple</td>
+	</tr>
+	<tr>
+		<td>Ich habe Brot</td>
+		<td>I have bread</td>
+	</tr>
+	<tr>
+		<td>Du hast einen Apfel</td>
+		<td>You have an apple</td>
+	</tr>
+	<tr>
+		<td>Sie haben Brot</td>
+		<td>They have bread</td>
+	</tr>
+	<tr>
+		<td>Wir haben Brot</td>
+		<td>We have bread</td>
+	</tr>
+</table>
+
+## Exercise 4 - Introduction
+
+### Words used
++ **heißt** - called
++ **kommen** - come
++ **verstehe** - understand
++ **spreche** - speak
+
+
+<table>
+	<tr>
+		<th>German</th>
+		<th>English</th>
+	</tr>
+	<tr>
+		<td>Mein Name ist Dipansh</td>
+		<td>My name is Dipansh</td>
+	</tr>
+	<tr>
+		<td>Sie heißt Julie</td>
+		<td>She is called Julie</td>
+	</tr>
+	<tr>
+		<td>Ich bin Dipansh</td>
+		<td>I am Dipansh</td>
+	</tr>
+	<tr>
+		<td>Er heißt Karl</td>
+		<td>He is called Karl</td>
+	</tr>
+	<tr>
+		<td>Wir kommen aus Brasilien</td>
+		<td>We come from Brazil</td>
+	</tr>
+	<tr>
+		<td>Anna und Lukas kommen aus Deutschland</td>
+		<td>Anna and Lukas come from Germany</td>
+	</tr>
+	<tr>
+		<td>Sie kommst aus England</td>
+		<td>She comes from England</td>
+	</tr>
+	<tr>
+		<td>Ich komme</td>
+		<td>I am coming</td>
+	</tr>
+	<tr>
+		<td>Kommst du aus Deutschland</td>
+		<td>Are you from Germany</td>
+	</tr>
+	<tr>
+		<td>Er kommt aus Deutschland</td>
+		<td>He comes from Germany</td>
+	</tr>
+	<tr>
+		<td>Ich komme aus Brasilien</td>
+		<td>I come from Brazil</td>
+	</tr>
+	<tr>
+		<td>Kommst du aus Deutschland ?</td>
+		<td>Are you from Germany</td>
+	</tr>
+	<tr>
+		<td>Ich verstehe Deutsch</td>
+		<td>I understand German</td>
+	</tr>
+	<tr>
+		<td>Ich verstehe</td>
+		<td>I understand</td>
+	</tr>
+	<tr>
+		<td>Ich spreche Englisch</td>
+		<td>I speak English</td>
+	</tr>
+	<tr>
+		<td>Die Frau spricht</td>
+		<td>The woman speaks</td>
+	</tr>
+	<tr>
+		<td>Sie versteht</td>
+		<td>She understands</td>
+	</tr>
+	<tr>
+		<td>Wir sprechen Deutsch</td>
+		<td>We speak German</td>
+	</tr>
+	<tr>
+		<td>Sprichst du Deutsch?</td>
+		<td>Do you speak German?</td>
+	</tr>
+	<tr>
+		<td>Wir sprechen Deutsch</td>
+		<td>We speak German</td>
 	</tr>
 </table>
