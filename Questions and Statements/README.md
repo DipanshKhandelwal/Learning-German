@@ -102,3 +102,34 @@
     </tr>
 </table>
 
+### PART 3
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>Is it warm?</td>
+        <td>Ist es warm?</td>
+    </tr>
+    <tr>
+        <td>It is dirty </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>It is deep</td>
+        <td>Es ist tief</td>
+    </tr>
+    <tr>
+        <td>It is tall</td>
+        <td>Es ist hoch</td>
+    </tr>
+    <tr>
+        <td>Is the water clean</td>
+    </tr>
+    <tr>
+        <td>Is the water dirty?</td>
+        <td>Ist das Wasser shmutig</td>
+    </tr>
+</table>
