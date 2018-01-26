@@ -130,3 +130,71 @@
     </tr>
 </table>
 
+### Present Tense - 3
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>He is playing</td>
+        <td>Er spielt</td>
+    </tr>
+    <tr>
+        <td>He is walking quickly</td>
+        <td>Er geht schnell</td>
+    </tr>
+    <tr>
+        <td>I am making tea</td>
+        <td>Ich mache Tee</td>
+    </tr>
+    <tr>
+        <td>I am not walking</td>
+        <td>Ich laufe night</td>
+    </tr>
+    <tr>
+        <td>I am sleeping</td>
+        <td>Ich schlefe</td>
+    </tr>
+    <tr>
+        <td>He wants an apple</td>
+        <td>Er will einen Apfel</td>
+    </tr>
+    <tr>
+        <td>She and I are going</td>
+        <td>Sie und ich gehen</td>
+    </tr>
+    <tr>
+        <td>Die Enten spielen</td>
+        <td>The ducks are playing</td>
+    </tr>
+    <tr>
+        <td>I am sleeping</td>
+        <td>Ich schlafe</td>
+    </tr>
+    <tr>
+        <td>He is sleeping</td>
+        <td>Er  schläft</td>
+    </tr>
+    <tr>
+        <td>You are playing</td>
+        <td>Du spielst</td>
+    </tr>
+    <tr>
+        <td>I am walking slowly</td>
+        <td>Ich gehe langsum</td>
+    </tr>
+    <tr>
+        <td>You and i are playing</td>
+        <td>Du und ich spielen</td>
+    </tr>
+    <tr>
+        <td>I go</td>
+        <td>Ich gehe</td>
+    </tr>
+    <tr>
+        <td>She and I are going</td>
+        <td>Sie und ein gehe</td>
+    </tr>
+</table>
