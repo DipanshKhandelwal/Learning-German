@@ -198,3 +198,52 @@
         <td>Sie und ein gehe</td>
     </tr>
 </table>
+
+### Present Tense - 4
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>Wir brauchen Duolingo</td>
+        <td>We need duolingo</td>
+    </tr>
+    <tr>
+        <td>We are drinking, and you are paying</td>
+        <td>Wir trinken , und du bezahlst</td>
+    </tr>
+    <tr>
+        <td>You are beginning</td>
+        <td>Du beginnst</td>
+    </tr>
+    <tr>
+        <td>He is washing the dog</td>
+        <td>Er wäscht den Hund</td>
+    </tr>
+    <tr>
+        <td>He is paying</td>
+        <td>Er bezahlt</td>
+    </tr>
+    <tr>
+        <td>No, i am paying</td>
+        <td>Nein, ich bezahle</td>
+    </tr>
+    <tr>
+        <td>I need water</td>
+        <td>Ich brauche Wasser</td>
+    </tr>
+    <tr>
+        <td>We are beginning</td>
+        <td>Wir beginnen</td>
+    </tr>
+    <tr>
+        <td>We are paying nothing</td>
+        <td>Wir bezahlen nicht</td>
+    </tr>
+    <tr>
+        <td>We are washing the tomatoes</td>
+        <td>Wir waschen die Tomaten</td>
+    </tr>
+</table>
