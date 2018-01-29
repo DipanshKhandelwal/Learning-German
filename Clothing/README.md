@@ -55,3 +55,62 @@
         <td>Die schuhe sind perfekt</td>
     </tr>
 </table>
+
+## Part - 2
+
+### Words used
++ Kleidung
++ Hosen
++ Hemd
++ Mantel
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>The Jacket</td>
+        <td>Der Mantel</td>
+    </tr>
+    <tr>
+        <td>The shirt</td>
+        <td>Das Hemd</td>
+    </tr>
+    <tr>
+        <td>The pants are not big</td>
+        <td>Die Hosen sind nicht groß</td>
+    </tr>
+    <tr>
+        <td>The clothes are good</td>
+        <td>Die Kleidung ist gut</td>
+    </tr>
+    <tr>
+        <td>The clothes</td>
+        <td>Die Kleidung</td>
+    </tr>
+    <tr>
+        <td>The jacket is from Europe</td>
+        <td>Die Jacke ist aus Europa</td>
+    </tr>
+    <tr>
+        <td>He is wearing a jacket</td>
+        <td>Er trägt eine Jacke</td>
+    </tr>
+    <tr>
+        <td>We have jackets</td>
+        <td>Wir haben Jacken</td>
+    </tr>
+    <tr>
+        <td>The clothes are dirty</td>
+        <td>Die Kleidung ist schmutzig</td>
+    </tr>
+        <tr>
+        <td>We have coats</td>
+        <td>Wir haben Mäntel</td>
+    </tr>
+        <tr>
+        <td>He is wearing a coat</td>
+        <td>Er trägt einen Mantel</td>
+    </tr>
+</table>
