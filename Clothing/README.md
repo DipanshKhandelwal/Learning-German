@@ -74,6 +74,7 @@
 + Hosen
 + Hemd
 + Mantel
++ Jacken
 
 <table>
     <tr>
@@ -123,5 +124,55 @@
         <tr>
         <td>He is wearing a coat</td>
         <td>Er trägt einen Mantel</td>
+    </tr>
+</table>
+
+## Part - 3
+
+### Words used
++ Tasche
++ Knopf
++ Schmuck
++ Kosmetik
++ Ring
++ passt
++ Fleck
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>The bag</td>
+        <td>Die Tasche</td>
+    </tr>
+    <tr>
+        <td>The cosmetics</td>
+        <td>Die Kosmetik</td>
+    </tr>
+    <tr>
+        <td>The ring is beautiful</td>
+        <td>Der Ring ist schön</td>
+    </tr>
+    <tr>
+        <td>The button</td>
+        <td>Der Knopf</td>
+    </tr>
+    <tr>
+        <td>The jewellery</td>
+        <td>Der Schmuck</td>
+    </tr>
+    <tr>
+        <td>The dress fits</td>
+        <td>Das Kleid passt</td>
+    </tr>
+    <tr>
+        <td>The cow has spots</td>
+        <td>Die cow hat Flecken</td>
+    </tr>
+    <tr>
+        <td>The rings are round</td>
+        <td>Die Ringe sind rund</td>
     </tr>
 </table>
