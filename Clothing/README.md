@@ -1,5 +1,16 @@
 # Clothing
 
+## Notes
+
+* **Kleider - dresses or clothes?**
+
+    das Kleid means the dress, and die Kleider means the dresses, but the plural die Kleider can also mean clothes or clothing. In most cases, clothing (or clothes) translates to Kleidung (usually uncountable), but It's important to be aware that Kleider can be used in that sense as well.
+
+
+* **Hose or Hosen?**
+
+    Both Hose and Hosen translate to pants (trousers in British English), but they're not interchangeable. The singular Hose refers to one pair of pants, and the plural Hosen refers to multiple pairs of pants.
+
 ## Part - 1
 
 ### Words used
