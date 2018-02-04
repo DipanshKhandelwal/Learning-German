@@ -151,3 +151,70 @@
         <td>Die Sonne ist rund</td>
     </tr>
 </table>
+
+### Tips and notes
+
+#### Lakes and seas - false friends ahoy
+The German for the lake is der See (masculine) and the most commonly used word for the sea is das Meer (neuter).
+
+There's another slightly less commonly used word for the sea which is die See (feminine).
+
+Be careful not to confuse der See (the lake) and die See (the sea). Keep in mind that the dative and genitive of die See (feminine - the sea) is der See. This example shows how important it is to know your noun genders and declension tables.
+
+<table>
+    <tr>
+        <th>singular</th>
+        <th>der See (masculine - the lake)</th>
+        <th>die See (feminine - the sea)</th>
+    </tr>
+    <tr>
+        <td>nominative</td>
+        <td>der See</td>
+        <td>die See</td>
+    </tr>
+    <tr>
+        <td>accusative</td>
+        <td>den See</td>
+        <td>die See</td>
+    </tr>
+    <tr>
+        <td>dative</td>
+        <td>dem See</td>
+        <td>der See</td>
+    </tr>
+    <tr>
+        <td>genitive</td>
+        <td>des Sees</td>
+        <td>der See</td>
+    </tr>
+</table>
+
+The plural forms are identical.
+
+<table>
+    <tr>
+        <th>plural</th>
+        <th>die Seen (masculine - the lakes)</th>
+        <th>die Seen (feminine - the seas)</th>
+    </tr>
+    <tr>
+        <td>nominative</td>
+        <td>die Seen</td>
+        <td>die Seen</td>
+    </tr>
+    <tr>
+        <td>accusative</td>
+        <td>die Seen</td>
+        <td>die Seen</td>
+    </tr>
+    <tr>
+        <td>dative</td>
+        <td>den Seen</td>
+        <td>den Seen</td>
+    </tr>
+    <tr>
+        <td>genitive</td>
+        <td>der Seen</td>
+        <td>der Seen</td>
+    </tr>
+</table>
