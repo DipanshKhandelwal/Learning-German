@@ -55,3 +55,66 @@
         <td>Meine Frau ist schön</td>
     </tr>
 </table>
+
+### Words used
++ **seins** - 
++ **unser** - our
++ **ihr** - your ,her
++ **eure** - your 
+
+### PART 2
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>Your books</td>
+        <td>Ihre Bücher</td>
+    </tr>
+    <tr>
+        <td>Is that your fish?</td>
+        <td>Ist das euer Fisch?</td>
+    </tr>
+    <tr>
+        <td>Our hats</td>
+        <td>Unsere Hüte</td>
+    </tr>
+    <tr>
+        <td>Your trousers</td>
+        <td>Ihre Hose</td>
+    </tr>
+    <tr>
+        <td>Her skirt is short</td>
+        <td>Ihr Rock ist kurz</td>
+    </tr>
+    <tr>
+        <td>That is our apple</td>
+        <td>Das ist unser Apfel</td>
+    </tr>
+    <tr>
+        <td>Our cat is fast</td>
+        <td>Unsere Katze ist schnell</td>
+    </tr>
+    <tr>
+        <td>I am drinking her water</td>
+        <td>Ich trinke ihr Wasser</td>
+    </tr>
+    <tr>
+        <td>No, our meal is cold</td>
+        <td>Nein, unser Essen st kalt</td>
+    </tr>
+    <tr>
+        <td>Our children have a cat</td>
+        <td>Unsere Kinder haben eine Katze</td>
+    </tr>
+    <tr>
+        <td>Our cat</td>
+        <td>Unsere Katze</td>
+    </tr>
+    <tr>
+        <td>Is that your fish?</td>
+        <td>Ist das euer Fisch?</td>
+    </tr>
+</table>
