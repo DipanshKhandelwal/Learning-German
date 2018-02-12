@@ -177,4 +177,59 @@
         <td>Dies ist Natur</td>
     </tr>
 </table>
+
+### Words used
++ **viel** - a lot
++ **niemand** - nobody
++ **etwas** - some
++ **jemand** - someone
++ **paar** - a couple
+
+### PART 2
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>She is someone</td>
+        <td>Sie ist jemand</td>
+    </tr>
+    <tr>
+        <td>I am eaing some fruit</td>
+        <td>Ich esse etwas Obst</td>
+    </tr>
+    <tr>
+        <td>Nobody has it</td>
+        <td>Niemand hat es</td>
+    </tr>
+    <tr>
+        <td>She reads a lot</td>
+        <td>Sie liest viel</td>
+    </tr>
+    <tr>
+        <td>I have a couple of books</td>
+        <td>Ich habe ein paar Bücher</td>
+    </tr>
+    <tr>
+        <td>Nobody is perfect</td>
+        <td>Niemand ist perfekt</td>
+    </tr>
+    <tr>
+        <td>Nobody is good</td>
+        <td>Niemand ist gut</td>
+    </tr>
+    <tr>
+        <td>That is a lot</td>
+        <td>Das ist viel</td>
+    </tr>
+    <tr>
+        <td>I need some sugar</td>
+        <td>Ich brauche etwas Zuker</td>
+    </tr>
+    <tr>
+        <td>He tastes soemthing</td>
+        <td>Er schmeckt etwas</td>
+    </tr>
 </table>
