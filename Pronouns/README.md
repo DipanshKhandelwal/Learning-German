@@ -118,3 +118,63 @@
         <td>Ist das euer Fisch?</td>
     </tr>
 </table>
+
+## Nominative Pronouns
+
+### Words used
++ **beiden** - both
++ **dies** - this
++ **jedes** - everyone
++ **manche** - some
++ **viele** - lot of
++ **alle** - all
+
+### PART 1
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>Are you this woman?</td>
+        <td>Bist du diese Frau?</td>
+    </tr>
+    <tr>
+        <td>Both of them liken coffee</td>
+        <td>Beide mögen Kaffee</td>
+    </tr>
+    <tr>
+        <td>Some dogs are drinking water</td>
+        <td>Manche Hunde trinken Wasser</td>
+    </tr>
+    <tr>
+        <td>Everyone is welcome</td>
+        <td>Jeder ist willkommen</td>
+    </tr>
+    <tr>
+        <td>Everything is good</td>
+        <td>Alles ist gut</td>
+    </tr>
+    <tr>
+        <td>We are eating a lot of potatoes</td>
+        <td>Wir essen viele Kartoffrln</td>
+    </tr>
+    <tr>
+        <td>All women</td>
+        <td>Alle Frauen</td>
+    </tr>
+    <tr>
+        <td>Anna ist that kid</td>
+        <td>Anna ist dieses Kind</td>
+    </tr>
+    <tr>
+        <td>This man is Lukas</td>
+        <td>Dieser Mann ist Lukas</td>
+    </tr>
+    <tr>
+        <td>This is nature</td>
+        <td>Dies ist Natur</td>
+    </tr>
+</table>
+</table>
