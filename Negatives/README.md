@@ -62,3 +62,58 @@
     	<td>Wir haben kein brot</td>
     </tr>
 </table>
+
+### Words used
++ **keiner** - Nobody
++ **nie** - never
++ **niemals** - never
++ **nichts** - nothing
+
+### PART 1
+
+<table>
+    <tr>
+        <th>English</th>
+        <th>German</th>
+    </tr>
+    <tr>
+        <td>She never drinks coffee</td>
+        <td>Sie trinkt niemals Kaffee</td>
+    </tr>
+    <tr>
+        <td>I have nothing</td>
+        <td>Ich habe nichts</td>
+    </tr>
+    <tr>
+        <td>I do not eat anything</td>
+        <td>Ich esse nichts</td>
+    </tr>
+    <tr>
+        <td>I do not drink beer</td>
+        <td>Ich trinke nie Bier</td>
+    </tr>
+    <tr>
+        <td>Nobody drinks</td>
+        <td>Keiner trinkt</td>
+    </tr>
+    <tr>
+        <td>I do not eat</td>
+        <td>Ich esse nichts</td>
+    </tr>
+    <tr>
+        <td>He is never sad</td>
+        <td>Er ist niemals traurig</td>
+    </tr>
+    <tr>
+        <td>Nobody is playing</td>
+        <td>Keiner spielt</td>
+    </tr>
+    <tr>
+        <td>I see nothing</td>
+        <td>Ich sehe nichts</td>
+    </tr>
+    <tr>
+        <td>I am not wearing anything</td>
+        <td>Ich trage nichts</td>
+    </tr>
+</table>
