@@ -32,7 +32,7 @@
     </tr>
     <tr>
         <td>This is good!</td>
-        <td>Das ist good!</td>
+        <td>Das ist gut!</td>
     </tr>
     <tr>
         <td>The soup</td>
