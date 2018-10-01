@@ -130,6 +130,6 @@
     </tr>
     <tr>
         <td>It's on me</td>
-        <td>Es liegt bei mir</td>
+        <td>Das geht auch mich / Das geht auf meine Rechnung</td>
     </tr>
 </table>
