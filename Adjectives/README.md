@@ -36,7 +36,7 @@ The adjective remains in the base form, regardless of number and gender.
     </tr>
     <tr>
         <td>It is light</td>
-        <td>That ist leicht</td>
+        <td>Das ist leicht</td>
     </tr>
     <tr>
         <td>You are perfect</td>
