@@ -131,8 +131,8 @@ The adjective remains in the base form, regardless of number and gender.
         <td>Afrika ist groß</td>
     </tr>
     <tr>
-        <td>groß und klein</td>
         <td>Large and small</td>
+        <td>Groß und klein</td>
     </tr>
     <tr>
         <td>the boy is small</td>
