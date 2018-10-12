@@ -21,70 +21,87 @@ The adjective remains in the base form, regardless of number and gender.
     <tr>
         <th>English</th>
         <th>German</th>
+        <th>Greek</th>
     </tr>
     <tr>
         <td>He is normal</td>
         <td>Er ist normal</td>
+        <td> Είναι κανονικός </td>
     </tr>
     <tr>
         <td>I am free</td>
         <td>Ich bin frei</td>
+        <td> Είμαι ελεύθερος </td>
     </tr>
     <tr>
         <td>The water is bad</td>
         <td>Das Wasser ist schlecht</td>
+        <td> Το νερό είναι κακό </td>
     </tr>
     <tr>
         <td>It is light</td>
         <td>Das ist leicht</td>
+        <td> Είναι ελαφρύ </td>
     </tr>
     <tr>
         <td>You are perfect</td>
         <td>Du bist perfekt</td>
+        <td> Είσαι τέλειος </td>
     </tr>
     <tr>
         <td>You are great</td>
         <td>Du bist toll</td>
+        <td> Είσαι υπέροχος</td>
     </tr>
     <tr>
         <td>He is bad</td>
         <td>Er is schlecht</td>
+        <td> Είναι κακός </td>
     </tr>
     <tr>
         <td>He is free</td>
         <td>Er ist frei</td>
+        <td> Είναι ελεύθερος </td>
     </tr>
     <tr>
         <td>The kid is light</td>
         <td>Das Kind ist leicht</td>
+        <td> Το παιδί είναι ελαφρύ </td>
     </tr>
     <tr>
         <td>You are perfect</td>
         <td>Du bist perfekt</td>
+        <td> Είσαι τέλειος </td>
     </tr>
     <tr>
         <td>This is light</td>
         <td>Das ist leicht</td>
+        <td> Αυτό είναι ελαφρύ </td>
     </tr>
     <tr>
         <td>That is long</td>
         <td>Das ist lang</td>
+        <td> Αυτό είναι μακρύ </td>
     </tr>
     <tr>
         <td>He is strong</td>
         <td>Er ist stark</td>
+        <strong> Είναι ισχυρός </td>
     </tr>
     <tr>
         <td>We are loud</td>
         <td>Wir sind laut</td>
+        <td> Είμαστε δυνατοί </td>
     </tr>
     <tr>
         <td>You are weak</td>
         <td>Du bist schwach</td>
+        <td> Είστε αδύναμοι </td>
     </tr>
     <tr>
         <td>That is short</td>
         <td>Das ist kurz</td>
+        <td> Αυτό είναι σύντομο </td>
     </tr>
     <tr>
         <td>You are strong</td>
@@ -93,50 +110,62 @@ The adjective remains in the base form, regardless of number and gender.
     <tr>
         <td>He is weak</td>
         <td>Er ist schwach</td>
+        <td> Είναι αδύναμος </td>
     </tr>
     <tr>
         <td>The dog is loud</td>
         <td>Der Hund ist laut</td>
+        <td> Ο σκύλος είναι δυνατός </td>
     </tr>
     <tr>
         <td>The noodles are short</td>
         <td>Die Nudeln sind kurz</td>
+        <td> Τα ζυμαρικά είναι σύντομα </td>
     </tr>
     <tr>
         <td>We are noisy</td>
         <td>Wir sind laut</td>
+        <td> Είμαστε θορυβώδεις </td>
     </tr>
     <tr>
         <td>She is calm</td>
         <td>Sie ist ruhig</td>
+        <td> Είναι ήρεμη </td>
     </tr>
     <tr>
         <td>No, he is small</td>
         <td>Nein, er ist klein</td>
+        <td> Όχι, είναι μικρός </td>
     </tr>
     <tr>
         <td>The apple is large</td>
         <td>Der Apfel ist groß</td>
+        <td> Το μήλο είναι μεγάλο </td>
     </tr>
     <tr>
         <td>The apple is round</td>
         <td>Der Apfel ist rund</td>
+        <td> Το μήλο είναι στρογγυλό </td>
     </tr>
     <tr>
         <td>It is clear</td>
         <td>Es ist klar</td>
+        <td> Είναι σαφές </td>
     </tr>
     <tr>
         <td>Africa is large</td>
         <td>Afrika ist groß</td>
+        <td> Η Αφρική είναι μεγάλη </td>
     </tr>
     <tr>
         <td>Large and small</td>
         <td>Groß und klein</td>
+        <td> Μεγάλα και μικρά </td>
     </tr>
     <tr>
         <td>the boy is small</td>
         <td>Der Junge ist klein</td>
+        <td> Το μικρό παιδί είναι </td>
     </tr>
     <tr>
         <td>It uis cal</td>
