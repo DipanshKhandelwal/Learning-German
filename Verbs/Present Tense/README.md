@@ -13,7 +13,7 @@
     </tr>
     <tr>
         <td>Are you learning German?</td>
-        <td>Learnst du Deutsch?</td>
+        <td>Lernst du Deutsch?</td>
     </tr>
     <tr>
         <td>We are reading newspaper</td>
@@ -166,8 +166,8 @@
         <td>Sie und ich gehen</td>
     </tr>
     <tr>
-        <td>Die Enten spielen</td>
         <td>The ducks are playing</td>
+        <td>Die Enten spielen</td>
     </tr>
     <tr>
         <td>I am sleeping</td>

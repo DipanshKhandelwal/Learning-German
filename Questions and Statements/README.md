@@ -66,7 +66,7 @@
     </tr>
     <tr>
         <td>Yes, that is correct</td>
-        <td>ja, das ist richtig</td>
+        <td>Ja, das ist richtig</td>
     </tr>
     <tr>
         <td>Are the men tired?</td>
@@ -115,7 +115,7 @@
     </tr>
     <tr>
         <td>It is dirty </td>
-        <td></td>
+        <td>Es ist dreckig</td>
     </tr>
     <tr>
         <td>It is deep</td>
@@ -126,10 +126,11 @@
         <td>Es ist hoch</td>
     </tr>
     <tr>
-        <td>Is the water clean</td>
+        <td>Is the water clean?</td>
+         <td>Ist das Wasser sauber?</td>
     </tr>
     <tr>
         <td>Is the water dirty?</td>
-        <td>Ist das Wasser shmutig</td>
+        <td>Ist das Wasser schmutzig?</td>
     </tr>
 </table>

@@ -170,4 +170,8 @@
         <td>I am late</td>
         <td>Ich bin spät dran</td>
     </tr>
+    <tr>
+        <td>What time is it?</td>
+        <td>Wie spät ist es?</td>
+    </tr>
 </table>

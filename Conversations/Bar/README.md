@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <td>Water or fruit juices</td>
-        <td>Wasser moder Fruchtsäfte</td>
+        <td>Wasser oder Fruchtsäfte</td>
     </tr>
     <tr>
         <td>Water</td>
@@ -130,6 +130,6 @@
     </tr>
     <tr>
         <td>It's on me</td>
-        <td>Das geht auch mich / Das geht auf meine Rechnung</td>
+        <td>Das geht auf mich / Das geht auf meine Rechnung</td>
     </tr>
 </table>

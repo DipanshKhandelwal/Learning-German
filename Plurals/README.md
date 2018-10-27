@@ -26,7 +26,7 @@
         <td>Die Kinder haben Fische</td>
     </tr>
     <tr>
-        <td>He have horses</td>
+        <td>He has horses</td>
         <td>Er hat Pferde</td>
     </tr>
     <tr>
@@ -34,8 +34,8 @@
         <td>Wir haben Schweine</td>
     </tr>
     <tr>
-        <td>Ich habe Hunde</td>
         <td>I have dogs</td>
+        <td>Ich habe Hunde</td>
     </tr>
     <tr>
         <td>The bears</td>
@@ -127,7 +127,7 @@
     </tr>
     <tr>
         <td>I am eating apples</td>
-        <td>Ich isse Äpfel</td>
+        <td>Ich esse Äpfel</td>
     </tr>
     <tr>
         <td>The girls and the boys</td>
