@@ -63,7 +63,7 @@
     </tr>
     <tr>
         <td>The shoes are perfect</td>
-        <td>Die schuhe sind perfekt</td>
+        <td>Die Schuhe sind perfekt</td>
     </tr>
 </table>
 

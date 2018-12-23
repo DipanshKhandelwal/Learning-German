@@ -97,6 +97,10 @@
         <td>Salat</td>
     </tr>
     <tr>
+        <td>Soup</td>
+        <td>Suppe</td>
+    </tr>
+    <tr>
         <td>Dessert</td>
         <td>Nachtisch</td>
     </tr>
@@ -110,7 +114,7 @@
     </tr>
     <tr>
         <td>Yes, I'll bring it to you right away</td>
-        <td>Ja ich bringe es Ihnen sofort</td>
+        <td>Ja, ich bringe es Ihnen sofort</td>
     </tr>
     <tr>
         <td>Knife</td>

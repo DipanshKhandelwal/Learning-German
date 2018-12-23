@@ -44,7 +44,7 @@
     </tr>
     <tr>
         <td>Excuse me, is Julien here?</td>
-        <td>Ist Julian da?</td>
+        <td>Entschuldigung, ist Julian da?</td>
     </tr>
     <tr>
         <td>Yes, he's here</td>

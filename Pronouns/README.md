@@ -226,10 +226,10 @@
     </tr>
     <tr>
         <td>I need some sugar</td>
-        <td>Ich brauche etwas Zuker</td>
+        <td>Ich brauche etwas Zucker</td>
     </tr>
     <tr>
-        <td>He tastes soemthing</td>
+        <td>He tastes something</td>
         <td>Er schmeckt etwas</td>
     </tr>
 </table>
