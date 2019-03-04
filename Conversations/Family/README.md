@@ -13,7 +13,7 @@
         <td>Familie</td>
     </tr>
     <tr>
-        <td>Do you have a family here</td>
+        <td>Do you have a family here?</td>
         <td>Hast du Familie hier?</td>
     </tr>
     <tr>
