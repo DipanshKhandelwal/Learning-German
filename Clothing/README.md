@@ -4,7 +4,7 @@
 
 * **Kleider - dresses or clothes?**
 
-    das Kleid means the dress, and die Kleider means the dresses, but the plural die Kleider can also mean clothes or clothing. In most cases, clothing (or clothes) translates to Kleidung (usually uncountable), but It's important to be aware that Kleider can be used in that sense as well.
+    das Kleid means the dress, and die Kleider means the dresses, but the plural die Kleider can also mean clothes or clothing. In most cases, clothing (or clothes) translates to Kleidung (usually uncountable), but it's important to be aware that Kleider can be used in that sense as well.
 
 
 * **Hose or Hosen?**
@@ -31,7 +31,7 @@
     </tr>
     <tr>
         <td>The shoe</td>
-        <td>Der schuh</td>
+        <td>Der Schuh</td>
     </tr>
     <tr>
         <td>The man is wearing a hat</td>
@@ -169,7 +169,7 @@
     </tr>
     <tr>
         <td>The cow has spots</td>
-        <td>Die cow hat Flecken</td>
+        <td>Die Kuh hat Flecken</td>
     </tr>
     <tr>
         <td>The rings are round</td>
