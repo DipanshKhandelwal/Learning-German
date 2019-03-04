@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td>Excuse me, is Sarah here?</td>
-        <td>Ist Sarah da?</td>
+        <td>Entschuldigung, ist Sarah da?</td>
     </tr>
     <tr>
         <td>Yes, she's here</td>
