@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td>When will this train arrive in Sun City?</td>
-        <td>Wann kommt der Zug nach Sonnenstadt an?</td>
+        <td>Wann kommt dieser Zug in Sonnenstadt an?</td>
     </tr>
     <tr>
         <td>A ticket for Sun City, please</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td>Excuse me, which train goes to Sun City?</td>
-        <td>Welcher Zug fährt nach Sonnenstadt bitte?</td>
+        <td>Entschuldigung, welcher Zug fährt nach Sonnenstadt?</td>
     </tr>
     <tr>
         <td>This one</td>
