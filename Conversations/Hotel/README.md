@@ -122,7 +122,7 @@
     </tr>
     <tr>
         <td>Let's meet in the meeting room?</td>
-        <td>Wir treffen uns in Konferenzraum?</td>
+        <td>Treffen wir uns im Konferenzraum?</td>
     </tr>
     <tr>
         <td>Meeting room</td>
@@ -161,8 +161,8 @@
         <td>Nein, Sie haben keine Nachrichten erhalten</td>
     </tr>
     <tr>
-        <td>Please can you give me some change?</td>
-        <td>Wo kann ich Wechselgeld becommen?</td>
+        <td>Can you give me some change please?</td>
+        <td>Kann ich bei Ihnen etwas Geld wechseln?</td>
     </tr>
     <tr>
         <td>We can make some for you, how much would you like?</td>
