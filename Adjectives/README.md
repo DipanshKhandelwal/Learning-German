@@ -48,7 +48,7 @@ The adjective remains in the base form, regardless of number and gender.
     </tr>
     <tr>
         <td>He is bad</td>
-        <td>Er is schlecht</td>
+        <td>Er ist schlecht</td>
     </tr>
     <tr>
         <td>He is free</td>
@@ -135,11 +135,11 @@ The adjective remains in the base form, regardless of number and gender.
         <td>Groß und klein</td>
     </tr>
     <tr>
-        <td>the boy is small</td>
+        <td>The boy is small</td>
         <td>Der Junge ist klein</td>
     </tr>
     <tr>
-        <td>It uis cal</td>
-        <td>Es ist ruhug</td>
+        <td>He is calm</td>
+        <td>Es ist ruhig</td>
     </tr>
 </table>
