@@ -14,6 +14,7 @@
 + **Reis** - Rice
 + **Salz** - Salt
 + **Schokolade** - chocolate
++ **Brot** - bread
 
 ### PART 1
 
@@ -148,6 +149,10 @@
     </tr>
     <tr>
         <td>She has oil</td>
-        <td>Sie hat Öl</td>
+        <td>Sie hat Öl</td>		
+    </tr>
+	<tr>
+        <td>Das Brot ist frisch gebacken</td>
+        <td>The bread is freshly baked</td>		
     </tr>
 </table>

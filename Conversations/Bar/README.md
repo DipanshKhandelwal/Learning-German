@@ -132,4 +132,8 @@
         <td>It's on me</td>
         <td>Das geht auf mich / Das geht auf meine Rechnung</td>
     </tr>
+	<tr>
+        <td>Where is the toilet?</td>
+        <td>Wo ist die Toilette?</td>
+    </tr>
 </table>

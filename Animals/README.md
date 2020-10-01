@@ -35,6 +35,10 @@ Fortunately, both verbs are conjugated very similarly:
         <td>sie/Sie essen</td>
         <td>sie/Sie fressen</td>
     </tr>
+      <tr>
+        <td>sie/Sie haben gegessen</td>
+        <td>sie/Sie haben gefressen</td>
+    </tr>
 </table>
 
 ### Words used
@@ -52,6 +56,7 @@ Fortunately, both verbs are conjugated very similarly:
 + **Fliege** - Fly
 + **Biene** - Bee
 + **Spinne** - Spider
++ **Meerschweinchen** - Guinea pig
 
 <table>
     <tr>
@@ -169,5 +174,9 @@ Fortunately, both verbs are conjugated very similarly:
     <tr>
         <td>The beetle is drinking milk</td>
         <td>Der Käfer trinkt Milch</td>
+    </tr>
+    <tr>
+        <td>The Guinea pig is eating carrots</td>
+        <td>Das Meerschweinchen frisst Möhren</td>
     </tr>
 </table>
