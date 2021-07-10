@@ -153,4 +153,8 @@
         <td>The woman and the girl are eating apples</td>
         <td>Die Frau und das Mädchen essen Äpfel</td>
     </tr>
+    <tr>
+        <td>The cacti are prickly</td>
+        <td>Die Kakteen sind stachelig</td>
+    </tr>
 </table>
