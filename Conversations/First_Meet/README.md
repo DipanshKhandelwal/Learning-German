@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td>No, I don't speak German</td>
-        <td>Nein, ich spreche kein Deutsch</td>
+        <td>Nein, ich spreche nicht Deutsch</td>
     </tr>
     <tr>
         <td>Only a little bit</td>
