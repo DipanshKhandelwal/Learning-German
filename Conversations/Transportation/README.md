@@ -10,7 +10,7 @@
     </tr>
     <tr>
         <td>Excuse me! I'm looking for the bus stop</td>
-        <td>Verzeihung! Ich suche die Bushaltestelle</td>
+        <td>Entschuldigen Sie! Ich suche die Bushaltestelle</td>
     </tr>
     <tr>
         <td>How much is a ticket to Sun City?</td>
