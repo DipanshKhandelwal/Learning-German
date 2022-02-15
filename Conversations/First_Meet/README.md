@@ -54,7 +54,7 @@
     </tr>
     <tr>
         <td>My name is Sarah, what's your name?</td>
-        <td>Mein Name ist Sarah. Und du, wie heißt du?</td>
+        <td>Mein Name ist Sarah, wie heißt du?</td>
     </tr>
     <tr>
         <td>What are you doing here?</td>
