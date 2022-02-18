@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td>No, I don't speak German</td>
-        <td>Nein, ich spreche kein Deutsch</td>
+        <td>Nein, ich spreche nicht Deutsch</td>
     </tr>
     <tr>
         <td>Only a little bit</td>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
         <td>My name is Sarah, what's your name?</td>
-        <td>Mein Name ist Sarah. Und du, wie heißt du?</td>
+        <td>Mein Name ist Sarah, wie heißt du?</td>
     </tr>
     <tr>
         <td>What are you doing here?</td>
